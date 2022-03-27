@@ -7,12 +7,12 @@ let handler = async(m, { conn }) => {
 ├ 1 Bulan
 ├ 1 Minggu
 ├ Trial 3 Hari
-└────
+└────khusus yang mau sewa yang gak mau gapapa
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa : 085730903853
-GoPay: 085730903853
+Pulsa : 085249231619
+GoPay: 085249231619
 `.trim()
     const button = {
         buttonText: 'List Harga',
